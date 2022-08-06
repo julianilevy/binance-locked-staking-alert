@@ -1,0 +1,8 @@
+﻿{
+  "binanceUrl": "https://www.binance.com/es/pos",
+  "reloadTime": 30000,
+  "fromNumber": "",
+  "toNumbers": [
+    ""
+  ]
+}
